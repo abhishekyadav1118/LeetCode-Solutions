@@ -4,7 +4,7 @@
 **Topics:** Array, Two Pointers  
 **Link:** https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
-**Runtime:** 2 ms | **Memory:** 20.4 MB
+**Runtime:** 3 ms | **Memory:** 20.4 MB
 
 ---
 
