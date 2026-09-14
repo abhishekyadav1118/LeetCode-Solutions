@@ -4,7 +4,7 @@
 **Topics:** Array, Binary Search  
 **Link:** https://leetcode.com/problems/binary-search/
 
-**Runtime:** 0 ms | **Memory:** 48.3 MB
+**Runtime:** 0 ms | **Memory:** 48.4 MB
 
 ---
 
