@@ -4,7 +4,7 @@
 **Topics:** Array, Math, Matrix  
 **Link:** https://leetcode.com/problems/rotate-image/
 
-**Runtime:** 0 ms | **Memory:** 19.3 MB
+**Runtime:** 0 ms | **Memory:** 43.7 MB
 
 ---
 
